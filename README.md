@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liu-nlper
 - 👀 I’m interested in NLP / Anomaly detection
 - 🌱 I’m currently learning ...
-- 📫 QQ Email: 1060907970@qq.com
+- 📫 Email: jxliu.nlper@gmail.com
 
 <!---
 liu-nlper/liu-nlper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
