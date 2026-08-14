@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liu-nlper
-- 👀 I’m interested in NLP / Anomaly detection
+- 👀 I’m interested in NLP / LLM
 - 🌱 I’m currently learning ...
 - 📫 Email: jxliu.nlper@gmail.com
 
